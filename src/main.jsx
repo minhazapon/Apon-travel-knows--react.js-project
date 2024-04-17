@@ -11,6 +11,9 @@ import {
 } from "react-router-dom";
 import Root from './Root';
 import Home from './Home';
+import News from './News';
+import Place from './Place';
+
 
 
 
@@ -23,7 +26,19 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
+        
       },
+      {
+        path: "/news",
+        element:  <News></News> ,
+        
+      },
+      {
+        path: "/place",
+        element: <Place></Place> ,
+        
+      },
+     
     ],
   },
 ]);

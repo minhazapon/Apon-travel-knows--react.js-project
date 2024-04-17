@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div>
 
-                  <footer className="footer p-10 bg-base-200 text-base-content">
+                  <footer className="footer p-10 bg-[#135D66]  text-white">
                     <nav>
                       <h6 className="footer-title">Services</h6> 
                       <a className="link link-hover">Branding</a>
@@ -29,7 +29,7 @@ const Footer = () => {
                       <h6 className="footer-title">travel Knows</h6> 
                       <fieldset className="form-control w-80">
                         <label className="label">
-                          <span className="label-text">Enter your email address</span>
+                          <span className="label-text  text-white  text-xl">Enter your email address</span>
                         </label> 
                         <div className="join">
                           <input type="text" placeholder="username@site.com" className="input input-bordered join-item" /> 
