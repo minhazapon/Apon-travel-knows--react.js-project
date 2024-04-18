@@ -6,7 +6,7 @@ const Personal = () => {
             <div>
 
                     <div>
-                         <h1 className=" text-6xl font-bold text-center">Give Your Personal Information</h1>
+                         <h1 className=" text-6xl font-bold text-center text-[#135D66]">Give Your Personal Information</h1>
 
                     </div>
 

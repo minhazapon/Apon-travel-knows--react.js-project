@@ -15,6 +15,8 @@ import News from './News';
 import Place from './Place';
 import Contact from './Contact';
 import Destination from './Destination';
+import Login from './Login';
+import SignUp from './SignUp';
 
 
 
@@ -49,6 +51,16 @@ const router = createBrowserRouter([
       {
         path: "/destination",
         element:  <Destination></Destination>,
+        
+      },
+      {
+        path: "/login",
+        element:  <Login></Login>,
+        
+      },
+      {
+        path: "/registration",
+        element:  <SignUp></SignUp>,
         
       },
      

@@ -23,7 +23,7 @@ const TouristPlace = () => {
 			
              <div>
                      
-             <a href="#_" className=" mt-10  relative inline-flex items-center justify-center p-4 px-6 py-3 overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out border-2 border-[#6ea8af] rounded-full shadow-md group">
+             <a href="https://www.google.com/maps/place/Yamanashi,+Japan/@35.788041,138.6072773,11.5z/data=!4m6!3m5!1s0x601c003ea5e56df5:0x17c20f97aec624c3!8m2!3d35.6933453!4d138.6873168!16zL20vMDF3al9i?entry=ttu" className=" mt-10  relative inline-flex items-center justify-center p-4 px-6 py-3 overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out border-2 border-[#6ea8af] rounded-full shadow-md group">
                <span className="absolute inset-0 flex items-center justify-center w-full h-full text-white duration-300 -translate-x-full bg-[#135D66] group-hover:translate-x-0 ease">
                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
                </span>
@@ -47,7 +47,7 @@ const TouristPlace = () => {
 					<p className="mt-3 text-lg text-gray-400">Take your love of stargazing to new heights by admiring the stars amid the Northern Lights in the northernmost region of Finland. In the cooler months, Lapland is blanketed with snow, so make sure you bring the right clothes to watch the lights in comfort. </p>
 					<div>
                      
-					 <a href="#_" className=" mt-10  relative inline-flex items-center justify-center p-4 px-6 py-3 overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out border-2 border-[#6ea8af] rounded-full shadow-md group">
+					 <a href="https://www.google.com/maps/place/Lapland,+Finland/@67.6111816,20.0117467,6z/data=!3m1!4b1!4m6!3m5!1s0x45d30036254ca145:0xcedc4eb30d91aca1!8m2!3d67.9222304!4d26.5046438!16zL20vMDFuZHdr?entry=ttu" className=" mt-10  relative inline-flex items-center justify-center p-4 px-6 py-3 overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out border-2 border-[#6ea8af] rounded-full shadow-md group">
 					   <span className="absolute inset-0 flex items-center justify-center w-full h-full text-white duration-300 -translate-x-full bg-[#135D66] group-hover:translate-x-0 ease">
 					   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
 					   </span>
@@ -76,7 +76,7 @@ const TouristPlace = () => {
 			
              <div>
                      
-             <a href="#_" className=" mt-10  relative inline-flex items-center justify-center p-4 px-6 py-3 overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out border-2 border-[#6ea8af] rounded-full shadow-md group">
+             <a href="https://www.google.com/maps/place/Namib+Desert/@-20.7510594,9.6706468,5z/data=!4m6!3m5!1s0x1c74f8343ddbf5a1:0xda0fb83c1339ad83!8m2!3d-24.2888714!4d15.2604813!16zL20vMDE4X3dr?entry=ttu" className=" mt-10  relative inline-flex items-center justify-center p-4 px-6 py-3 overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out border-2 border-[#6ea8af] rounded-full shadow-md group">
                <span className="absolute inset-0 flex items-center justify-center w-full h-full text-white duration-300 -translate-x-full bg-[#135D66] group-hover:translate-x-0 ease">
                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
                </span>
@@ -101,7 +101,7 @@ const TouristPlace = () => {
 					<p className="mt-3 text-lg text-gray-400">Why lounge on the beach when you can see the Northern Lights? The remote Lofoten Islands of Norway are full of one-of-a-kind experiences, especially when it comes to striking views, charming fishing towns, and tall peaks for hiking. Hamnøy is seriously picturesque, and it's connected to the mainland by bridge, so you'll be able to access it by car.</p>
 					<div>
                      
-					 <a href="#_" className=" mt-10  relative inline-flex items-center justify-center p-4 px-6 py-3 overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out border-2 border-[#6ea8af] rounded-full shadow-md group">
+					 <a href="https://www.google.com/maps/place/8390+Hamn%C3%B8y,+Norway/@67.9261943,12.8215666,10.25z/data=!4m6!3m5!1s0x45de3cfb6ac08c51:0xaf598ee0fa489fb3!8m2!3d67.9468184!4d13.1322376!16zL20vMGRxaGtf?entry=ttu" className=" mt-10  relative inline-flex items-center justify-center p-4 px-6 py-3 overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out border-2 border-[#6ea8af] rounded-full shadow-md group">
 					   <span className="absolute inset-0 flex items-center justify-center w-full h-full text-white duration-300 -translate-x-full bg-[#135D66] group-hover:translate-x-0 ease">
 					   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
 					   </span>
