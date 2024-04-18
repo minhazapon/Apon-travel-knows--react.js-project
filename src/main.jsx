@@ -13,6 +13,8 @@ import Root from './Root';
 import Home from './Home';
 import News from './News';
 import Place from './Place';
+import Contact from './Contact';
+import Destination from './Destination';
 
 
 
@@ -36,6 +38,17 @@ const router = createBrowserRouter([
       {
         path: "/place",
         element: <Place></Place> ,
+        
+      },
+     
+      {
+        path: "/contact",
+        element:  <Contact></Contact>,
+        
+      },
+      {
+        path: "/destination",
+        element:  <Destination></Destination>,
         
       },
      
