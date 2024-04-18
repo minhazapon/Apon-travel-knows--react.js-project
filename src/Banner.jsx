@@ -2,7 +2,25 @@ import { Link } from "react-router-dom";
 
 const Banner = () => {
     return (
-        <div className=" mt-10 mb-10  mr-10 ml-10 ">
+        <div className="  mb-10  mr-10 ml-10 ">
+
+
+
+                <div className=" flex justify-center">
+
+
+                <video className=" mb-10 h-[600px] w-[1200px] rounded-lg" controls>
+                 <source src="https://assets.mixkit.co/videos/preview/mixkit-landscape-of-a-large-lake-during-sunset-from-the-air-4998-large.mp4" type="video/mp4" />
+                
+               </video>
+
+
+                </div>
+
+
+
+
+
               
              <div className=" flex justify-center items-center gap-10 bg-[#135D66] p-5 rounded-2xl flex-col md:flex-row  ">
 
