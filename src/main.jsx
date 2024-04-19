@@ -9,6 +9,9 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+
+
+
 import Root from './Root';
 import Home from './Home';
 import News from './News';
@@ -18,8 +21,6 @@ import Destination from './Destination';
 import Login from './Login';
 import SignUp from './SignUp';
 import Blog from './Blog';
-
-
 
 
 
@@ -40,6 +41,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/place",
+        loader: () => fetch('places.json') ,
         element: <Place></Place> ,
         
       },
