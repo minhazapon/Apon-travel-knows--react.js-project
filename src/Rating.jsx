@@ -2,9 +2,9 @@
 
 const Rating = () => {
     return (
-        <div className=" mt-10 mb-10 mr-10 ml-10 ">
+        <div className=" mt-10 mb-10 mr-10 ml-10 flex justify-center items-center ">
 
-            <div  className=" grid  md:grid-cols-2 gap-20" >
+            <div  className=" grid  md:grid-cols-2 gap-10" >
 
             <div className="container flex flex-col w-full max-w-lg p-6 mx-auto divide-y rounded-md dark:divide-gray-300 bg-[#135D66] text-white        ">
 	        <div className="flex justify-between p-4">        

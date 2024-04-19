@@ -1,0 +1,87 @@
+[ 
+    {
+        "id": 101,
+        "image" : "https://cdn-ijojh.nitrocdn.com/wYlENIZbBEepXffmuWvajJfNyYNuqlHx/assets/images/optimized/wp-content/uploads/2023/02/88b025cb3e019dd48c4fe17b716960b5.manali-1024x536.jpg",
+         "place": " manali ",
+         "country": " India ",
+        "description": "Manali is synonymous streams and birdsong, forests and orchards and grandees of snow-capped mountains. "
+        
+    
+    },
+    {
+        "id": 102,
+        "image" : "https://lp-cms-production.imgix.net/2019-06/GettyImages-149353949_high.jpg",
+        "place": " Himachal Pradesh ",
+        "country": " India ",
+       "description": "Himachal Pradesh is the northernmost state of India and shares borders with the union territories of Jammu and Kashmir and Ladakh to the north, and the states .. "
+      
+    },
+    {
+        "id": 103,
+        "image" : "https://assets.cntraveller.in/photos/60ba11f73ff1eb236f5a730c/4:3/w_1420,h_1065,c_limit/LadakhLead.jpg",
+        "place": " ladakh ",
+        "country": " India ",
+       "description": "Geography · Ladakh is the highest plateau in India with most of it being over 3,000 m (9,800 ft). · Historically, the region included the · The mountain ranges . "
+        
+   
+    },
+    {
+        "id": 104,
+        "image" : "https://www.shaantamresorts.com/wp-content/uploads/2023/04/uttarakhand-1024x576.jpg",
+        "place": " uttarakhand ",
+         "country": " India ",
+        "description": "Uttarakhand borders the Tibet Autonomous Region of China to the north; the Sudurpashchim Province of Nepal to the east; the Indian states of Uttar Pradesh  "
+        
+      
+    },
+    {
+        "id": 105,
+        "image" : "https://static.toiimg.com/photo/101637728.cms",
+        "place": " Rajasthan ",
+        "country": " India ",
+       "description": "Rajasthan is a state in northwestern India. It covers 342,239 square kilometres (132,139 sq mi) or 10.4 per cent of India's total geographical area. "
+        
+    },
+    {
+        "id": 106,
+        "image" : "https://i.cdn.newsbytesapp.com/images/l99020211231103855.jpeg",
+        "place": " kalimpong ",
+        "country": " India ",
+       "description": "Kalimpong is a town and the headquarters of an eponymous district in the Indian state of West Bengal. It is located at an average elevation of 1,250 metres . "
+        
+    },
+    {
+        "id": 107,
+        "image" : "https://media-cdn.tripadvisor.com/media/photo-s/17/45/71/89/darjeeling-the-second.jpg",
+        "place": " darzeling ",
+         "country": " India ",
+        "description": "Manali is synonymous streams and birdsong, forests and orchards and grandees of snow-capped mountains. "
+        
+    },
+    {
+        "id": 108,
+        "image" : "https://images.hindustantimes.com/img/2022/12/30/1600x900/meghalaya_1672396350346_1672396350496_1672396350496.jpg",
+        "place": " Meghalaya ",
+        "country": " India ",
+       "description": "Meghalaya is a state in northeast India. Meghalaya was formed on 21 January 1972 by carving out two districts from the state of Assam: "
+        
+    },
+    {
+        "id": 109,
+        "image" : "https://www.tourmyindia.com/states/kerala/images/best-places-to-visit-kerala.png",
+        "place": " kerala ",
+         "country": " India ",
+        "description": "Kerala is one of the small states of India in terms of area. it consists of only 1.3 per cent of the total area of India. The state is located in the southwest corner of India. Karnataka and Tamil Nadu bound it on north, east and south and on east by the Arabian Sea. "
+        
+    },
+    {
+        "id": 110,
+        "image" : "https://www.justahotels.com/wp-content/uploads/2023/09/Maharashtra-scaled.jpg",
+        "place": " maharashtra ",
+         "country": " India ",
+        "description": "Maharashtra is one of India's largest commercial and industrial centres, which has led to its being called the gateway of India. Maharashtra is also famous for its culture and beauty. The ancient cave paintings found at Ajanta and Ellora are UNESCO World Heritage sites and popular tourist destinations. "
+        
+    }
+   
+  ]
+

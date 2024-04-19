@@ -9,7 +9,7 @@ const Banner = () => {
                 <div className=" flex justify-center">
 
 
-                <video className=" mb-10 h-[600px] w-[1200px] rounded-lg" controls>
+                <video className=" mb-10 h-[600px] w-[1200px]  rounded-xl mt-10  " controls>
                  <source src="https://assets.mixkit.co/videos/preview/mixkit-landscape-of-a-large-lake-during-sunset-from-the-air-4998-large.mp4" type="video/mp4" />
                 
                </video>
