@@ -21,6 +21,9 @@ import Destination from './Destination';
 import Login from './Login';
 import SignUp from './SignUp';
 import Blog from './Blog';
+import PlaceList from './PlaceList';
+
+
 
 
 
@@ -45,7 +48,6 @@ const router = createBrowserRouter([
         element: <Place></Place> ,
         
       },
-     
       {
         path: "/contact",
         element:  <Contact></Contact>,
@@ -70,6 +72,12 @@ const router = createBrowserRouter([
         path: "/blog",
         element:  <Blog></Blog> ,
         
+      },
+      {
+        path: "/list",
+        loader: () => fetch('travel.json'),
+        element: <PlaceList></PlaceList> ,
+      
       },
      
     ],
